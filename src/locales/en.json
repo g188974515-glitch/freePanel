@@ -1,0 +1,19 @@
+{
+  "menu": {
+    "dashboard": "Dashboard",
+    "apps": "App Store",
+    "database": "Databases",
+    "firewall": "Firewall",
+    "cron": "Cron Jobs"
+  },
+  "status": {
+    "running": "Running",
+    "stopped": "Stopped",
+    "enabled": "Enabled"
+  },
+  "actions": {
+    "start": "Start",
+    "stop": "Stop",
+    "settings": "Settings"
+  }
+}

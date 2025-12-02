@@ -1,0 +1,19 @@
+{
+  "menu": {
+    "dashboard": "概览",
+    "apps": "应用管理",
+    "database": "数据库",
+    "firewall": "安全防火墙",
+    "cron": "计划任务"
+  },
+  "status": {
+    "running": "运行中",
+    "stopped": "已停止",
+    "enabled": "已启用"
+  },
+  "actions": {
+    "start": "启动",
+    "stop": "停止",
+    "settings": "设置"
+  }
+}

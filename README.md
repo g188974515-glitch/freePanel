@@ -1,3 +1,11 @@
+这个是一个免费开源的Linux面板，主要采用AI驱动开发。代码使用go语言为主要开发语言。应用的领域有web站点搭建、docker环境部署、AI模型部署、二进制程序部署，各种MCP、Agent等应用部署等。
+
+欢迎大家提交代码，主要代码由AI和社区人员共同开发。
+
+-----
+
+
+
 # React + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.

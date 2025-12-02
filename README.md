@@ -6,6 +6,28 @@
 
 
 
+## 预览
+
+![](https://raw.githubusercontent.com/g188974515-glitch/freePanel/refs/heads/main/QQ20251202-113330.png)
+
+
+
+![](https://raw.githubusercontent.com/g188974515-glitch/freePanel/refs/heads/main/QQ20251202-113359.png)
+
+
+
+![](https://github.com/g188974515-glitch/freePanel/blob/main/QQ20251202-113413.png?raw=true)
+
+
+
+![](https://github.com/g188974515-glitch/freePanel/blob/main/QQ20251202-113431.png?raw=true)
+
+
+
+![](https://github.com/g188974515-glitch/freePanel/blob/main/QQ20251202-113443.png?raw=true)
+
+
+
 # React + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
